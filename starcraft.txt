@@ -1,0 +1,7 @@
+StarCraftImpl,Dopey Basic Unit,100,300,50
+TerranAirUnit,Wraith,525,400,150
+TerranAirUnit,Battlecruiser,225,800,400
+ZergAirUnit,Mutalisk,500,750,100
+ZergAirUnit,Brood Lord,300,1000,150
+ProtossAirUnit,Carrier,200,850,350
+ProtossAirUnit,Void Ray,350,500,250
